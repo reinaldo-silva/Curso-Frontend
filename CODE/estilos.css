@@ -1,0 +1,13 @@
+div {
+    font-size: 30px;
+    background-color: violet;
+    /*margin: 0 auto;*/ /*centraliza no meio*/
+    
+    display: block;/*oculpa a linha toda*/
+    width: 400px;
+    height: 400px;
+    margin-left: auto;/*preenche toda a esquerda de margin*/
+    margin-right: auto;/*preenche toda a direita de margin*/
+    margin-bottom: auto;
+    margin-top: auto;
+}
