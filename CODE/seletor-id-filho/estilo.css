@@ -1,0 +1,10 @@
+/*
+Seletor de tag, h1
+*/
+h1{
+    color: red;
+}
+
+#email{
+    color: green;
+}
